@@ -47,7 +47,7 @@ Then head to http://localhost:4321 and boom — you’re in.
 🙌 Credits
 ----------
 
-Huge thanks to [nicoduncan](https://github.com/nicoduncan) for the original [astro-tech-blog](https://github.com/nicoduncan/astro-tech-blog) template.I customized it to fit my style, but the structure and vibe gave me a solid head start.
+Huge thanks to [nicoduncan](https://github.com/nicdun) for the original [astro-tech-blog](https://github.com/nicdun/astro-tech-blog) template. I customized it to fit my style, but the structure and vibe gave me a solid head start.
 
 📬 Stay in Touch
 ----------------
