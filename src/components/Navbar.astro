@@ -6,7 +6,7 @@ import Section from './Section.astro';
 	<div class="flex items-center justify-between">
 		<div class="text-3xl font-bold">
 			<a href="/"
-				>💻 <span class="pr-2 text-2xl text-gray-500">{'<'}</span>astro<span class="text-orange-600"
+				>💻 <span class="pr-2 text-2xl text-gray-500">{'<'}</span>leivur<span class="text-purple-600"
 					>.</span
 				>js<span class="pl-2 text-2xl text-gray-500">{'/>'}</span></a
 			>
@@ -15,8 +15,8 @@ import Section from './Section.astro';
 			<!-- Desktop Navigation -->
 			<nav>
 				<ul class="hidden flex-row sm:flex">
-					<li><a href="/tags" class="mr-3 hover:text-orange-600">TAGS</a></li>
-					<li><a href="/" class="hover:text-orange-600">BLOG</a></li>
+					<li><a href="/tags" class="mr-3 hover:text-purple-600">TAGS</a></li>
+					<li><a href="/" class="hover:text-purple-600">BLOG</a></li>
 				</ul>
 			</nav>
 			<!-- Desktop Theme Switcher -->
@@ -25,7 +25,7 @@ import Section from './Section.astro';
 				<label class="tada relative cursor-pointer p-2" for="light-switch-desktop">
 					<svg class="dark:hidden" width="16" height="16" xmlns="http://www.w3.org/2000/svg">
 						<path
-							class="fill-stone-800"
+							class="fill-gray-800"
 							d="M7 0h2v2H7zM12.88 1.637l1.414 1.415-1.415 1.413-1.413-1.414zM14 7h2v2h-2zM12.95 14.433l-1.414-1.413 1.413-1.415 1.415 1.414zM7 14h2v2H7zM2.98 14.364l-1.413-1.415 1.414-1.414 1.414 1.415zM0 7h2v2H0zM3.05 1.706 4.463 3.12 3.05 4.535 1.636 3.12z"
 						></path>
 						<path class="fill-gray-900" d="M8 4C5.8 4 4 5.8 4 8s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4Z"
@@ -64,11 +64,11 @@ import Section from './Section.astro';
 	<!-- Mobile Menu -->
 	<div
 		id="mobile-menu"
-		class="mt-4 hidden rounded-lg border border-gray-200 bg-white pb-2 shadow-md transition-all duration-300 sm:hidden dark:border-gray-200 dark:bg-stone-900"
+		class="mt-4 hidden rounded-lg border border-gray-200 bg-white pb-2 shadow-md transition-all duration-300 sm:hidden dark:border-gray-200 dark:bg-gray-900"
 	>
 		<nav class="flex flex-col p-3">
-			<a href="/tags" class="border-b border-gray-200 py-2 hover:text-orange-600">TAGS</a>
-			<a href="/" class="border-b border-gray-200 py-2 hover:text-orange-600">BLOG</a>
+			<a href="/tags" class="border-b border-gray-200 py-2 hover:text-purple-600">TAGS</a>
+			<a href="/" class="border-b border-gray-200 py-2 hover:text-purple-600">BLOG</a>
 
 			<!-- Mobile Theme Switcher -->
 			<div class="flex items-center py-2">
@@ -76,7 +76,7 @@ import Section from './Section.astro';
 				<label class="tada relative cursor-pointer p-2" for="light-switch-mobile">
 					<svg class="dark:hidden" width="16" height="16" xmlns="http://www.w3.org/2000/svg">
 						<path
-							class="fill-stone-800"
+							class="fill-gray-800"
 							d="M7 0h2v2H7zM12.88 1.637l1.414 1.415-1.415 1.413-1.413-1.414zM14 7h2v2h-2zM12.95 14.433l-1.414-1.413 1.413-1.415 1.415 1.414zM7 14h2v2H7zM2.98 14.364l-1.413-1.415 1.414-1.414 1.414 1.415zM0 7h2v2H0zM3.05 1.706 4.463 3.12 3.05 4.535 1.636 3.12z"
 						></path>
 						<path class="fill-gray-900" d="M8 4C5.8 4 4 5.8 4 8s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4Z"
