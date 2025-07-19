@@ -30,10 +30,10 @@ If you want to run this blog locally or fork it for your own use:
 
 ```bash
 # Clone the repo
-git clone https://github.com/LeivurGargiulo/your-repo-name.git
+git clone https://github.com/LeivurGargiulo/blog.git
 
 # Go into the project
-cd your-repo-name
+cd blog
 
 # Install dependencies
 npm install
