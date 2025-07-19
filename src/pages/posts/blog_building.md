@@ -9,7 +9,7 @@ excerpt: I could’ve just used a pre-made site builder, clicked a few buttons, 
 image:
   src:
   alt:
-tags: ["#BlogSetup", "Astro"]
+tags: ["BlogSetup", "Astro"]
 ---
 
 Let’s be real: I could’ve just used a pre-made site builder, clicked a few buttons, and called it a day. But no — I wanted a challenge. I wanted to build something with code. So that’s how I ended up discovering **Astro**.

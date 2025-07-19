@@ -9,7 +9,7 @@ excerpt: After some intense soul-searching (and a lot of scrolling), I finally d
 image:
   src:
   alt:
-tags: ["#Python", "#100DaysOfCode"]
+tags: ["Python", "100DaysOfCode"]
 ---
 
 After some intense soul-searching (and a lot of scrolling), I finally decided to start the **#100DaysOfCode Python** challenge by Dr. Angela Yu. Yup — the _Python arc_ has officially begun.
